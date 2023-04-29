@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * print_diagonal - Draws a diagonal line in the terminal
@@ -18,8 +17,8 @@ void print_diagonal(int n)
 	{
 		for (j = 0; j < i; j++)
 			putchar(' ');
-
 		putchar('\\');
 		putchar('\n');
 	}
 }
+
