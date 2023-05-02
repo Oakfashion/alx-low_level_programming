@@ -4,6 +4,7 @@
  * @s: function parameter
  * Return: 0
  */
+
 void print_rev(char *s)
 {
 	int i;
