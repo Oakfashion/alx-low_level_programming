@@ -3,13 +3,8 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-/**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
 	return (0);
 }
